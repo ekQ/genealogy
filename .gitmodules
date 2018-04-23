@@ -1,0 +1,3 @@
+[submodule "src/historical_name_normalizer"]
+	path = src/historical_name_normalizer
+	url = git@github.com:ekQ/historical_name_normalizer.git
