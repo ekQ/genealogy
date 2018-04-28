@@ -1,0 +1,5 @@
+To normalize occupations and to compute their social status score, see normalize_occupations.py. The normalizer returns the following attributes for an occupation:
+
+socialclass4:   An integer from 1 to 4 indicating the social class associated with the occupation (1 indicates the highest class, 4 the lowest).
+hisco:          HISCO code of th occupation (see http://historyofwork.iisg.nl/).
+hiscam:         An integer from 0 to 10000 indicating the social status of the occupation (the higher the score the higher the statusi; see http://www.camsis.stir.ac.uk/hiscam/).
