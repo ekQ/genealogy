@@ -31,4 +31,7 @@ for `batch_index` values from 1 to 50 (can be run in parallel).
 
 ## Running Assortative Mating Analysis
 
-(The code and documentation to be added.)
+```
+cd src/assortative_mating/
+python assortative_mating_analysis.py
+```
